@@ -1,2 +1,1 @@
-# stepic-autotestCourse-1
-Homeworks
+https://stepik.org/course/575/syllabus
